@@ -45,4 +45,6 @@ let me know if you need more.
 
 get better soon and unbreak your face.
 
+[![ScreenShot](https://raw.github.com/bastih/getwelltermie/master/img/beer.jpg)]
+
 + sebastian
