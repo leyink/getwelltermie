@@ -18,4 +18,4 @@
 ::::::::::::::::..:::::........::..:::::..::..:::::..::....::........::....:::::::::::::::::
 </pre>
 
-<center>![DEALWITHIT](http://i.imgur.com/YZAOIPY.gif)</center>
+->![DEALWITHIT](http://i.imgur.com/YZAOIPY.gif)<-
