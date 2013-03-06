@@ -58,3 +58,9 @@ Here, have some
 It'll do ya good. Feel better!
 
 + jeff / bitprophet
+
+----
+
+Going to do a bear fight and fight the scumbag tracks that did this to you.
+
++ mwhooker
