@@ -19,7 +19,7 @@
         |  |     |  |____ |  |\  \----.|  |  |  | |  | |  |____
         |__|     |_______|| _| `._____||__|  |__| |__| |_______|
 
-From one [breakneck]:http://www.outlandishjosh.com/blogs/i_have_pain
+From one [breakneck](http://www.outlandishjosh.com/blogs/i_have_pain)
 cyclist to another, don't let it slow you down.
 
 However, as per my own experience with bicycle-related hospital visits,
