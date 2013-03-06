@@ -48,3 +48,13 @@ get better soon and unbreak your face.
 [![ScreenShot](https://raw.github.com/bastih/getwelltermie/master/img/beer.jpg)]
 
 + sebastian
+
+----
+
+Here, have some
+
+![get well soon soup](http://i.imgur.com/uNIXTBM.jpg)
+
+It'll do ya good. Feel better!
+
++ jeff / bitprophet
