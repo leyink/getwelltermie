@@ -19,3 +19,14 @@ Injury Recap http://term.ie/blog/injury-recap/
 
 <3, 
 Lindsay
+
+----
+
+Get Well Soon Andy!
+
+![I hope you feel better soon friend!](http://img.vmessages.com/get-well-soon/10.gif)
+
+ -Tantek
+
+----
+
