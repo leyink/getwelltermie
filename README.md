@@ -9,12 +9,13 @@ He is having surgery tomorrow (Wednesday, March 6th) and will likely be in the h
 
 I couldn't think of a better way to send a get well card to a major open source contributor and nerd than in the form of a public git repository. RIGHT.
 
-Go forth, add what ever you think is awesome -- text, images, get well cards in the form of code. I'm sure he'll appreciate anything you put here. :)
+Go forth, add what ever you think is awesome -- text, images, get well cards in the form of code -- and send me a pull request. I'm sure he'll appreciate anything you put here. :)
 
-I'll just send him the link to the repo after his surgery tomorrow.
+I'll let him know about the repo tomorrow (March 6th, 2013) or Thursday (March 7th, 2013).
 
 GO INTERNET
 
 Injury Recap http://term.ie/blog/injury-recap/
 
-<3, Lindsay
+<3, 
+Lindsay
