@@ -1,0 +1,45 @@
+<html>
+<head>
+	<title>Yay Andy You're Not Dead!!!!!</title>
+	<style> 
+		body {background: #fff url('http://www.timoni.org/images/boobs.gif') center center; background-size:100%; margin:100px; color: #00ccff;}
+		h1, h2, h3, stars {font-size:30px; color: #00ccff; text-align:center; width:100%; line-height:50px; display: block;}
+		h2 {font-size:160px;line-height: 140px; margin:40px auto 0;}
+		h3 {font-size: 50px; }
+		h1, h3 {text-transform: uppercase; letter-spacing: 10px; line-height: 50px; font-weight: bold}
+		stars {letter-spacing: 10px}
+		img {margin: 0 auto; text-align: center; width: 100%;}
+	</style>
+	<script type="text/javascript" src="http://use.typekit.com/dxt3iwo.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.js"></script>
+	<script type="text/javascript" src="http://www.timoni.org/jquery.color.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			
+			spectrum();
+			
+			function spectrum(){
+				var rainbow = 'rgb(' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ')';
+				$('#welcome').animate( { backgroundColor: rainbow }, 1000);
+				$('#welcome_text').animate( { color: rainbow }, 1000);
+				spectrum(); 
+		   	}
+			
+			
+		});	
+	</script>
+	</head>
+
+<body>
+
+<stars>&#9733; &#9733; &#9733;</stars>
+
+<h1 class="tk-freight-big-pro">So happy to hear</h1>
+<h2 id="welcome_text" class="tk-jbt-annabelle">You're not dead!</h2>
+
+<stars>&#9733; &#9733; &#9733;</stars>
+
+</body>
+</html>
