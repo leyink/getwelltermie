@@ -34,8 +34,7 @@ Get Well Soon Andy!
 for use with hospital prescriptions:
 
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Mf6JCpJjdiY" frameborder="0" allowfullscreen></iframe>
-
+[![ScreenShot](https://raw.github.com/pauloppenheim/getwelltermie/master/img/what_is_this_a_youtube_video_or_something.png)](http://youtu.be/Mf6JCpJjdiY)
 
 let me know if you need more.
 
