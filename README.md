@@ -1,6 +1,13 @@
 getwelltermie
 =============
 
+OMG Andy is out of surgery and alive! Whew. Keep sending the love, internet!
+
+<3,
+Lindsay
+
+----
+
 Hello Friends of Termie,
 
 As most of you know, Andy had a bit of a run in with the MUNI tracks on his bike a few weeks ago. He has a fractured elbow and a few face fractures.
