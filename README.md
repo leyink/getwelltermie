@@ -7,7 +7,7 @@ As most of you know, Andy had a bit of a run in with the MUNI tracks on his bike
 
 He is having surgery today (Wednesday, March 6th, 2013 @ 2:30pm) and will be in the hospital most of the day.
 
-I couldn't think of a better way to send a get well card to a major open source contributor and nerd than in the form of a public git repository. RIGHT.
+I couldn't think of a better way to send a get well card to Andy than in the form of a public git repo. RIGHT.
 
 Go forth, fork, and send a pull request. Add whatevs you think is awesome -- text, images, get well cards in the form of code. I'm sure he'll appreciate anything you put here. :)
 
