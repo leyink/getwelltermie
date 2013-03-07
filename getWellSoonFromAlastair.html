@@ -1,0 +1,62 @@
+<html>
+<style>
+* {
+	text-align: center;
+	font-family: cursive;
+}
+h1 {
+	font-size: xx-large;
+	text-decoration: underline;
+}
+div {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 10px;
+	border-style: dashed;
+	border-color: rgba(211,155,155,0.88);
+	padding: 10px;
+}
+img {
+	width: 50%;
+	height: 50%;
+}
+</style>
+<body>
+<h1>Get well soon!</h1>
+- Alastair
+<div id='kittens'>Lawding teh kittehs!11!!!!1...</div>
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script>
+	function blink(selector){
+		$(selector).fadeOut('fast', function(){
+			$(this).css('color', 'red');
+			$(this).fadeIn('fast', function(){ 
+				blink(this);
+				$(this).css('color', 'blue');	
+			});
+			$(this).css('color', 'yellow');
+		});
+	}
+	blink('body > h1');
+
+	$(document).ready(function() {
+		// Teh ugly code for teh kittens
+		$.ajax({
+			url: 'http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=10&callback=?&q=' + encodeURIComponent('http://cuteoverload.com/feed/'),
+			dataType: 'json',
+			success: function(data) {
+				$('#kittens').empty();
+				$.each(data.responseData.feed.entries, function (e){
+					var regex = new RegExp(/http:\/\/.+?\.jpg|jpeg/gi);
+					var t = data.responseData.feed.entries[e].content;
+					if (t.match(regex)){
+						$('#kittens').append($('<img>').attr('src', t.match(regex)[0]));
+					}
+				});
+			}
+		});
+	});
+</script>
+</body>
+</html>
