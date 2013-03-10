@@ -85,7 +85,7 @@ Going to do a bear fight and fight the scumbag tracks that did this to you.
     g    \_     \        _.--------.______\|   |    g
     o      \     \______// _ ___ _ (_(__>  \   |    o
     a       \   .  C ___)  ______ (_(____>  |  /    a
-    t       /\ |   C ____)/ GET  \ (_____>  |_/     t
+    t       /\ |   C _||_)/ GET  \ (_____>  |_/     t
     s      / /\|   C_____) WELL! |  (___>   /  \    s
     e     |   (   _C_____)\______/  // _/ /     \   e
     x     |    \  |__   \\_________// (__/       |  x
