@@ -24,7 +24,7 @@ GO INTERNET!
 
 Injury Recap http://term.ie/blog/injury-recap/
 
-<3, 
+<3,
 Lindsay
 
 ----
@@ -74,13 +74,13 @@ Going to do a bear fight and fight the scumbag tracks that did this to you.
 
 ----
 
-    g                                               g  
+    g                                               g
     o /     \             \            /    \       o
     a|       |             \          |      |      a
     t|       `.             |         |       :     t
     s`        |             |        \|       |     s
     e \       | /       /  \\\   --__ \\       :    e
-    x  \      \/   _--~~          ~--__| \     |    x  
+    x  \      \/   _--~~          ~--__| \     |    x
     *   \      \_-~                    ~-_\    |    *
     g    \_     \        _.--------.______\|   |    g
     o      \     \______// _ ___ _ (_(__>  \   |    o
@@ -97,3 +97,12 @@ Going to do a bear fight and fight the scumbag tracks that did this to you.
     s   |         / /      \__/\___/    |          |s
     e  |           /        |    |       |         |e
     x  |          |         |    |       |         |x
+
+----
+
+Get well so we can frond fight again soon!
+
+![get well](http://i.imgur.com/3LMCh4P.jpg)
+
++ devin
+
